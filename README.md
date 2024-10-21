@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jeremy
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Software Engineer
 - ⚡ Fun fact: I lack sleep
 
